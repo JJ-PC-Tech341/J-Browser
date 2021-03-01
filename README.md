@@ -26,6 +26,6 @@ You Are Ready To Surf the Web
 You Are Ready To Surf the Web
 
 # Termux :
-  1. Still Working
+  1. Still Working On It
 
 # Thank You !
